@@ -68,7 +68,7 @@
 
 @media only screen and (max-width:500px) {
     /* For mobile phones: */
-    .header, .navbar, .content, .content2, .footer {
+    .header, .navbar, .content, .content2, .footer, .produto1, .produto2 {
       width: 100%;
     }
 
